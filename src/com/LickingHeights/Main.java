@@ -55,8 +55,14 @@ public class Main {
             System.out.println("Most likely.");
 
         }
+
         if(number < 91 && number > 81) {
             System.out.println("Go for it!");
+
+        }
+
+        if(number < 101 && number > 91) {
+            System.out.println("That could happen.");
 
         }
     }
