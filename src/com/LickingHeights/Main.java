@@ -16,7 +16,7 @@ public class Main {
 
     // 10 options
 
-        if(number < 11) {
+        if(number < 11 && number > 0) {
             System.out.println("Most certainly.");
 
         }
